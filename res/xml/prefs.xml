@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <EditTextPreference
+        android:key="max_posts"
+        android:title="Posts"
+        android:summary="Number of posts to retrieve"
+        android:dialogTitle="Posts"
+        />
+</PreferenceScreen>
